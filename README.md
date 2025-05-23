@@ -24,9 +24,7 @@ Extracts:
 * Profile picture URL
 
 # Usage
-    ```sh
     python getinfo.py
-    ```
 
 # Output
 The script will print the following user information to the terminal content:
